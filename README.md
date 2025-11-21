@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Manh Tin, a Software Engineer based in Berlin with a background in Full Stack and Data Engineering. I'm currently building [Mate Studio](https://www.mate-studio.com/). My main focus includes Data Engineering and Web Development with over 5 years of experience building web applications.
+I am Manh Tin, a Software Engineer based in Berlin with a background in Full Stack and Data Engineering. I'm currently building [Mate Studio](https://www.mate-studio.com/). My main focus includes Data Engineering and Web Development with over 7 years of experience building web applications.
 
 My current technologies include [NestJS](https://nestjs.com/) and [React](https://react.dev/). I have professional experience with [Ruby on Rails](https://rubyonrails.org/) and [Vue.js](https://vuejs.org/) as well as [Django](https://www.djangoproject.com) and [Pandas](https://pandas.pydata.org/docs).
 
